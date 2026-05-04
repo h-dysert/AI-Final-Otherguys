@@ -57,9 +57,9 @@ AD,3,5,8,8
 
 ## AI Tools Used Cited 
 - ChatGPT
- - Used for ideas on different types of quality tests to run on the optimization method
- - Used for figuring out data handling for the optimization method (what to do with zero ranks for example)
- - Used for checking program worked as intended (after manual + automatic testing)
+  - Used for ideas on different types of quality tests to run on the optimization method
+  - Used for figuring out data handling for the optimization method (what to do with zero ranks for example)
+  - Used for checking program worked as intended (after manual + automatic testing)
 - GitHub Copilot
- - Autofill feature used to speed up writing where it predicted intended code lines correctly
- - Note: Optimization method aided by autofill but ultimately the approach was taken from homework three
+  - Autofill feature used to speed up writing where it predicted intended code lines correctly
+  - Note: Optimization method aided by autofill but ultimately the approach was taken from homework three
